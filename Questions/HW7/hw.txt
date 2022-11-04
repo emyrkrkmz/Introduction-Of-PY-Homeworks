@@ -1,0 +1,16 @@
+What you need to do is to create a file called "hw.py" and write 2 decorators inside this file. One of the decorators should be named "time_hold" and the other should be "memorized":
+
+
+# hw.py
+
+def time_hold(func):
+    ...
+
+
+def memorized(func):
+    ...
+
+
+
+
+When you do it this way, the decorators will be imported and used in the "test.py" file. Don't forget to put "test.py" and "hw.py" in the same folder.

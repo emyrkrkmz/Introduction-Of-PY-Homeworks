@@ -1,0 +1,4 @@
+Create the "hw.py" file and create a class called "ComplexNumber" in it:
+
+class ComplexNumber:
+   ...
